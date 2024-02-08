@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#4C3B9C</item> <!-- Set your primary color -->
+        <item name="colorPrimaryDark">#291C64</item> <!-- Set your status bar color -->
+        <item name="colorAccent">#4CAF50</item> <!-- Set your accent color -->
+        <!-- Other style attributes -->
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style>
+
+
+
+</resources>
